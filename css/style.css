@@ -178,3 +178,81 @@ p.copyright {
   color: #FFF;
   margin: 15px 0;
 }
+
+.section-contact {
+  padding: 75px 0;
+}
+
+.contact-header {
+  font-weight: 700;
+  letter-spacing: 7px;
+}
+
+.contact-divider {
+  margin-right: 4%;
+  border-color: #101010;
+}
+
+.contact-form {
+  padding-top: 5%;
+}
+
+.contact-form input,
+.contact-form textarea {
+  margin-bottom: 10px;
+  background-color: #f2f3f3;
+  border-bottom: 4px solid #c9d7e3;
+}
+
+.form-control {
+  border-radius: 2px !important;
+  padding: 15px 20px !important;
+  height: auto;
+  border-color: #e5e5e5;
+  box-shadow: none !important;
+}
+
+.btn-submit {
+  color: #fff;
+  background-color: #286191;
+  border-color: #2e6da4;
+  font-weight: 600;
+}
+
+.btn.focus, .btn:focus, .btn:hover{
+ color: #fff;
+}
+
+::-webkit-input-placeholder {
+   font-size: 17px;
+   letter-spacing: 1px;
+}
+
+:-moz-placeholder { /* Firefox 18- */
+      font-size: 17px;
+      letter-spacing: 1px;
+}
+
+::-moz-placeholder {  /* Firefox 19+ */
+      font-size: 17px;
+      letter-spacing: 1px;
+}
+/* Overriding styles */
+::-webkit-input-placeholder {
+   font-size: 17px!important;
+   letter-spacing: 1px;
+}
+
+:-moz-placeholder { /* Firefox 18- */
+      font-size: 17px!important;
+      letter-spacing: 1px;
+}
+::-moz-placeholder {  /* Firefox 19+ */
+      font-size: 17px!important;
+      letter-spacing: 1px;
+}
+
+.vertical-align {
+  display: flex;
+  align-items: center;
+}
