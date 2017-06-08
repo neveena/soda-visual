@@ -18,7 +18,16 @@ h5,
 h6 {
     font-family: "Segoe UI", "century gothic", calibri, Arial;
 }
+p {
+    font-size: 19px;
+    font-weight: 400;
+    line-height: 2;
+    letter-spacing: 1px;
+}
 
+.container {
+    max-width: 1005px;
+}
 .section-header {
   padding-top: 40px;
   padding-bottom: 75px;
@@ -136,4 +145,27 @@ ul.social-network li {
   margin-bottom: 1px;
 }
 
+.section-our-client {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  text-align: center;
+  color: #f8f8f8;
+  background: url(../images/clients_bg.jpg) no-repeat center center;
+  background-size: cover;
+}
+
+.header-client {
+  padding-bottom: 7%;
+  letter-spacing: 4px;
+}
+
+.client-divider {
+  width: 255px;
+}
+
+.client-box {
+  background-color: #1f303e;
+  opacity: 0.9;
+  margin-bottom: 11%;
+}
 
