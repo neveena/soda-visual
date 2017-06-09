@@ -28,9 +28,10 @@ p {
 .container {
     max-width: 1005px;
 }
+
 .section-header {
   padding-top: 40px;
-  padding-bottom: 75px;
+  padding-bottom: 60px;
   text-align: center;
   color: #f8f8f8;
   background: url(../images/header_bg.jpg) no-repeat center center;
@@ -60,6 +61,7 @@ p {
   border-top: 1px solid #f8f8f8;
   border-bottom: 1px solid rgba(0, 0, 0, 0.2);
 }
+
 /* header social icons */
 ul.social-network {
   list-style: none;
@@ -100,7 +102,7 @@ ul.social-network li {
 
 .social-circle li i {
   margin: 0;
-  line-height: 50px;
+  line-height: 52px;
   text-align: center;
 }
 
