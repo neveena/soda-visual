@@ -217,31 +217,31 @@ ul.social-network li {
 
 ::-webkit-input-placeholder {
    font-size: 17px;
-   letter-spacing: 1px;
+  letter-spacing: 2px;
 }
 
 :-moz-placeholder { /* Firefox 18- */
       font-size: 17px;
-      letter-spacing: 1px;
+      letter-spacing: 2px;
 }
 
 ::-moz-placeholder {  /* Firefox 19+ */
       font-size: 17px;
-      letter-spacing: 1px;
+      letter-spacing: 2px;
 }
 /* Overriding styles */
 ::-webkit-input-placeholder {
    font-size: 17px!important;
-   letter-spacing: 1px;
+   letter-spacing: 2px;
 }
 
 :-moz-placeholder { /* Firefox 18- */
       font-size: 17px!important;
-      letter-spacing: 1px;
+      letter-spacing: 2px;
 }
 ::-moz-placeholder {  /* Firefox 19+ */
       font-size: 17px!important;
-      letter-spacing: 1px;
+      letter-spacing: 2px;
 }
 
 .vertical-align {
