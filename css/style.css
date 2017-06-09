@@ -270,7 +270,7 @@ p.copyright {
         width: 100%;
     }
     p {
-        font-size: 0.9em;
+        font-size: 1.2em;
         font-weight: 400;
         line-height: 2;
         letter-spacing: 1px;
@@ -303,6 +303,9 @@ p.copyright {
     }
     .about-us-heading-spacer {
         width: 200px;
+    }
+    p {
+        font-size: 0.9em;
     }
     .client-divider {
         width: 180px;
